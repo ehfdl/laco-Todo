@@ -3,7 +3,7 @@ export const TodoInput = () => {
     <form>
       <input />
       <input />
-      <button>추가</button>
+      <button>추가추가</button>
     </form>
   );
 };

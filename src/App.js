@@ -21,4 +21,5 @@ export default App;
 
 const Page = styled.div`
   display: flex;
+  gap: 10px;
 `;
