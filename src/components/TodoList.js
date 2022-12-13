@@ -1,7 +1,7 @@
 export const TodoList = () => {
   return (
     <div>
-      <div>laco-todo</div>
+      <div>laco-todos</div>
     </div>
   );
 };
