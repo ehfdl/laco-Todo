@@ -8,7 +8,7 @@ function App() {
   const [todos, setTodos] = useState([
     { id: uuidv4(), title: "제목1", content: "내용1입니다", isDone: false },
     { id: uuidv4(), title: "제목2", content: "내용2입니다", isDone: true },
-    { id: uuidv4(), title: "제목3", content: "내용3입니다", isDone: false },
+    { id: uuidv4(), title: "제목3", content: "내용", isDone: false },
   ]);
 
   const doItItem = todos.filter((t) => !t.isDone);
